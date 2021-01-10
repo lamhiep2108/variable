@@ -6,7 +6,7 @@ public class firstdegreeequation {
         System.out.println("Giver o equation as 'a*x+b=0' please enter constant");
         Scanner scanner = new Scanner(System.in);
         System.out.println("a: ");
-        double a = scanner.nextDouble();
+        double a = scanner.nextFloat();
         System.out.println("b: ");
         double b = scanner.nextDouble();
         System.out.println("c:");
